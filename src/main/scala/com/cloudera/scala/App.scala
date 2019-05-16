@@ -2,9 +2,7 @@ package com.cloudera.scala
 
 import org.apache.spark.sql.SparkSession
 
-/----------------------------------------------------------------------------------
-
-  object App {
+  class App {
     val appName = "ice-spark-250268"
 
     val simId = 250268
